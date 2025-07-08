@@ -206,3 +206,40 @@ nav ul {
   justify-content: center;
   margin-top: 50px;
 }
+/* footer style start here */
+footer {
+  display: flex;
+  padding: 130px 230px;
+  background-color: #fff8f3;
+  margin-top: 113px;
+  gap: 117px;
+}
+.left-footer h3 {
+  font-size: 35px;
+  font-weight: 800;
+}
+.left-footer p {
+  font-size: 16px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+.icon-image img {
+  padding-right: 24px;
+}
+.right-footer h3 {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+}
+.right-footer input[type="text"],
+.right-footer input[type="email"],
+.right-footer textarea {
+  height: 64px;
+  border-radius: 5px;
+  color: white;
+  width: 100%;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-bottom: 24px;
+}
