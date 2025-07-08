@@ -166,3 +166,43 @@ nav ul {
   height: 44px;
   width: 44px;
 }
+/* resume style starts here */
+.resume-container {
+  display: flex;
+  gap: 71px;
+  margin: 0px 230px;
+}
+.section-header {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  text-align: center;
+  margin-bottom: 113px;
+}
+.education-header h2 {
+  font-size: 30px;
+  font-weight: 800;
+  color: #474747;
+}
+.education-name {
+  font-size: 16px;
+  font-weight: 800;
+  color: #474747;
+  margin: 20px 0;
+}
+.education-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #757575;
+  margin-bottom: 20px;
+}
+.education-description {
+  font-size: 16px;
+  color: #757575;
+  margin-bottom: 20px;
+}
+.resume-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
