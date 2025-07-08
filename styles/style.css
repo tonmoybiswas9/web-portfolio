@@ -20,7 +20,7 @@ header {
   background-image: url(../images/developer.png), url(../images/header_bg.png);
   background-repeat: no-repeat;
   background-position: left, bottom right;
-  padding: 68px 0;
+  padding: 50px 0;
 }
 .nav-logo h2 {
   font-size: 45px;
